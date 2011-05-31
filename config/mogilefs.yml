@@ -1,0 +1,5 @@
+domain: testdomain
+hosts: ["127.0.0.1:7001"]
+dev_count: 1
+fetch_url_prefix: mogilefs-get
+
