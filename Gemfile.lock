@@ -1,5 +1,6 @@
-PATH
-  remote: ../mogpapa
+GIT
+  remote: git://github.com/ebsbk/Mogpapa.git
+  revision: 1c66772a16535880675ed05914e704c2ee2a3ba7
   specs:
     mogpapa (0.0.1)
       mogilefs-client
